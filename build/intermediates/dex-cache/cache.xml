@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\Developer\WorkSpace\emojicon-master\example\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="F:\Developer\WorkSpace\emojicon-master\example\build\intermediates\pre-dexed\debug\classes-98ec3fc45efafc859a72e01001e171b456f4680c.jar" />
+    </item>
+    <item
+        jar="F:\Developer\WorkSpace\emojicon-master\example\build\intermediates\exploded-aar\emojicon-master\library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d8fa68be695599b5feebace735cc10274231bd04">
+        <dex dex="F:\Developer\WorkSpace\emojicon-master\example\build\intermediates\pre-dexed\debug\classes-60991c0b6f695c7739e32e5170a0b33f0486cf7f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\22.2.1\61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="F:\Developer\WorkSpace\emojicon-master\example\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-c44767cde65e141fb01d83dda455fc0f90514e2c.jar" />
+    </item>
+    <item
+        jar="F:\Developer\WorkSpace\emojicon-master\example\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="F:\Developer\WorkSpace\emojicon-master\example\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-a317861ab91d8a72622192b31fc68f7c862fdc03.jar" />
+    </item>
+    <item
+        jar="F:\Developer\WorkSpace\emojicon-master\example\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="F:\Developer\WorkSpace\emojicon-master\example\build\intermediates\pre-dexed\debug\classes-980d65e2d3d2ae679315b3dd6beca05edfadc19f.jar" />
+    </item>
+
+</items>
